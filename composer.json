@@ -1,0 +1,17 @@
+{
+    "name": "cmhc/httptask",
+    "description": "async http task",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cmhc",
+            "email": "hu_chao@139.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "httptask\\": "src/"
+        }
+    }
+}
